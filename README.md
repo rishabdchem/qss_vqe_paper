@@ -4,8 +4,11 @@ This repository provides the data and code necessary to reproduce the results in
 
 The qumode-based Jupyter notebooks can be opened and executed via Google Colab with the links below.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rishabdchem/qss_vqe_paper/blob/main/ecd_vqe_h2mol.ipynb) | Describe
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rishabdchem/qss_vqe_paper/blob/main/plots_data.ipynb) | Generate the plots
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rishabdchem/qss_vqe_paper/blob/main/qssvqe_h2mol.ipynb) | QSS-VQE codes for the dihydrogen molecule
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rishabdchem/qss_vqe_paper/blob/main/qssvqe_cyt.ipynb) | QSS-VQE codes for the cytosine Hamiltonian 
 
 ## Contact <a name="contact"></a>
 
