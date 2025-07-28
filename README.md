@@ -1,7 +1,3 @@
-# qss_vqe_paper
-Notebooks and data for the paper on qumode-based subspace VQE.
-
-
 # Qumode-Based Variational Quantum Eigensolver for Molecular Excited States
 
 This repository provides the data and code necessary to reproduce the results in the manuscript "Qumode-Based Variational Quantum Eigensolver for Molecular Excited States".
